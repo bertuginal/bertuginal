@@ -47,6 +47,7 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [youtube]: https://youtube.com/codeSTACKr
+[twitter]: https://twitter.com/bertug_inall?t=discDI9d6z6DDh65wDbqyg&s=08
 [instagram]: https://www.instagram.com/bertug_inal/
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
