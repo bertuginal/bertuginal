@@ -46,10 +46,10 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
 [twitter]: https://twitter.com/bertug_inall?t=discDI9d6z6DDh65wDbqyg&s=08
 [instagram]: https://www.instagram.com/bertug_inal/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
