@@ -46,7 +46,6 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: 
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/bertug_inal/
 [linkedin]: https://linkedin.com/in/codeSTACKr
