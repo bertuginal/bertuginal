@@ -43,35 +43,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [API Crash Course - Integrate, Build, & Sell an API $$$ (EASY!)](https://www.youtube.com/watch?v=FMJwaA2WMjc)
-- [#TeamSeas - Let's Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
-- [Secret Mr. Beast Video Collab!!](https://www.youtube.com/watch?v=0sxnQCfJL2g)
-- [STACKr News Weekly: Make $10k on Etsy 💲, Build Candy Crush in React 🍭, Use VS Code on ANY Device! 🤯](https://www.youtube.com/watch?v=JOWeVhSz_bY)
-- [vscode.dev - VS Code In The Browser!!](https://www.youtube.com/watch?v=-5TFQjzEK-8)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
