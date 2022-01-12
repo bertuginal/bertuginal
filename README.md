@@ -6,9 +6,9 @@
 ## I'm a Software Developer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m 21 years old
+- 👯 I am a 4th year computer engineering student at Firat University.
+- 🥅 I love Code Programming. The programming languages I'm interested in are: Java, C#, MSSQL, HTML, CSS, Javascript
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
