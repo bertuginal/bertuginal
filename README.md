@@ -15,7 +15,7 @@
 - **Telephone Number : (+90) 507 038 33 23**
 - **Yahoo Mail : bertuginal@yahoo.com**
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="file:///C:/Users/bertu/Downloads/file-directory-fill.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/material/344/folder-invoices--v1.png" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
