@@ -15,7 +15,7 @@
 - **Telephone Number : (+90) 507 038 33 23**
 - **Yahoo Mail : bertuginal@yahoo.com**
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,7 +24,8 @@
 <br />
 <br />
 
-[website]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
+[website]: https://www.facebook.com/bertug.inal.5
+[facebook]: https://www.facebook.com/bertug.inal.5
 [youtube]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
 [twitter]: https://twitter.com/bertug_inall?t=discDI9d6z6DDh65wDbqyg&s=08
 [instagram]: https://www.instagram.com/bertug_inal/
