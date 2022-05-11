@@ -44,14 +44,14 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 * 🖥️  See my portfolio at [About me](http://bertuginal.github.io/)
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 * 📞  You can call me at (+90) 507 038 33 23
-* ⚡  
+* ⚡  Request + Decision = Success
 
 <a href="https://twitter.com/bertug_inall" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### **Skills**
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
