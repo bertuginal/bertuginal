@@ -45,8 +45,9 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 [instagram]: https://www.instagram.com/bertug_inal/
 [linkedin]: https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab
 <br />
+<br />
+<br />
 
-<b>bertuginal's GitHub Stats</b>
 
 <a href="http://www.github.com/bertuginal"><img src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bertuginal's GitHub stats" /></a>
 
