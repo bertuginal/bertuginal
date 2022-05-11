@@ -1,4 +1,4 @@
-Hi there, I'm Bertuğ İNAL 👋  
+Hi there, I'm Bertuğ İNAL [Logo]👋  
 =============================
 
 I'm a Software Developer!!
@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-t
 /></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## <center> ~ Skills ~ </center>
+## ~ Skills ~
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&emsp;
@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql.svg" width="36" height="36" alt="Mysql" /></a>
 </p>
 
-##  ~ Socials ~
+## ~ Socials ~
 
 [<img align="left" alt="bertuginal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="bertuginal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -52,3 +52,4 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 ## ~ Support Me ~
 
 <a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif) 
