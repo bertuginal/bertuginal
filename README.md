@@ -1,4 +1,4 @@
-Hi there, I'm Bertuğ İNAL [Logo]👋  
+Hi there, I'm Bertuğ İNAL👋  
 =============================
 
 I'm a Software Developer!!
@@ -10,12 +10,6 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 * 🖥️  See my portfolio at [About me](http://bertuginal.github.io/)
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 * 📞  You can call me at [(+90) 507 038 33 23](mailto:05070383323)
-
-
-<a href="https://twitter.com/bertug_inall" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## ~ Skills ~
 
@@ -37,19 +31,20 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 [<img align="left" alt="bertuginal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bertuginal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bertuginal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+<a href="https://twitter.com/bertug_inall" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 [facebook]: https://www.facebook.com/bertug.inal.5
 [youtube]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
 [twitter]: https://twitter.com/bertug_inall?t=discDI9d6z6DDh65wDbqyg&s=08
 [instagram]: https://www.instagram.com/bertug_inal/
 [linkedin]: https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab
-<br />
-<br />
-
 
 <a href="http://www.github.com/bertuginal"><img src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bertuginal's GitHub stats" /></a><a href="http://www.github.com/bertuginal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## ~ Support Me ~
 
 <a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-![](https://raw.githubusercontent.com/<bertuginal>/<gif>/<master>/<path/to/gif>)
