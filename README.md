@@ -1,6 +1,6 @@
-Hi there, I'm Bertuğ İNAL - [Logo][logo]👋  ![alt text](https://github.com/[bertuginal]/[image]/blob/[master]/Bert_Bej_Orjinal.jpg?raw=true)
+Hi there, I'm Bertuğ İNAL - [Logo][logo]👋  
 =============================
-
+![alt text](https://github.com/[bertuginal]/[image]/blob/[master]/Bert_Bej_Orjinal.jpg?raw=true)
 I'm a Software Developer!!
 -----------------------------
 
