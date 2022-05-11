@@ -6,17 +6,17 @@ I'm a Software Developer!!
 
 Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th year Computer Engineering student at Fırat University in Elazig. I know Java, C# and Python programming languages. I have knowledge of SQL about Database, I have used and i know MySQL, SQL Server and MSSQL database management systems. Previously, I was back-end software development on Asp.Net Core MVC technologies and MSSQL database management, front-end software development internship on HTML, CSS, JavaScript technologies at Monovi Information Technology.
 
-* 🌍  I'm based in İzmir
+* ⚡  Request + Decision = Success
 * 🖥️  See my portfolio at [About me](http://bertuginal.github.io/)
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 * 📞  You can call me at (+90) 507 038 33 23
-* ⚡  Request + Decision = Success
+
 
 <a href="https://twitter.com/bertug_inall" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>*<a href="https://www.instagram.com/bertug_inal/" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.instagram.com/bertug_inal/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/instagram/follow/bertug_inal?logo=instagram&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>*<a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### ~ Skills ~
