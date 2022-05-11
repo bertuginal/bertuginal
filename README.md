@@ -53,4 +53,4 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 
 <a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 ##
-<div align="center"><img src="https://github.com/bertuginal/gif/blob/master/Bertug.gif" width="400"></div>
+<div align="center"><img src="https://github.com/bertuginal/gif/blob/master/Bertug.gif" width="1000"></div>
