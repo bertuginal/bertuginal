@@ -1,4 +1,4 @@
-Hi there, I'm Bertuğ İNAL - [bertuginal][website]👋
+Hi there, I'm Bertuğ İNAL - [bertuginal][photo]👋
 =============================
 
 I'm a Software Developer!!
@@ -14,7 +14,9 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 
 <a href="https://twitter.com/bertug_inall" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
+/></a>*<a href="https://www.instagram.com/bertug_inal/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/instagram/follow/bertug_inal?logo=instagram&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>*<a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### ~ Skills ~
@@ -36,7 +38,7 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 [<img align="left" alt="bertuginal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bertuginal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://www.facebook.com/bertug.inal.5
+[photo]: https://www.facebook.com/bertug.inal.5
 [facebook]: https://www.facebook.com/bertug.inal.5
 [youtube]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
 [twitter]: https://twitter.com/bertug_inall?t=discDI9d6z6DDh65wDbqyg&s=08
