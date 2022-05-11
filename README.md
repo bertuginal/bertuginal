@@ -1,4 +1,4 @@
-Hi there, I'm Bertuğ İNAL - [Logo][logo]👋  
+Hi there, I'm Bertuğ İNAL 👋  
 =============================
 
 I'm a Software Developer!!
@@ -38,7 +38,6 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 [<img align="left" alt="bertuginal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bertuginal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[logo]: https://www.facebook.com/bertug.inal.5
 [facebook]: https://www.facebook.com/bertug.inal.5
 [youtube]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
 [twitter]: https://twitter.com/bertug_inall?t=discDI9d6z6DDh65wDbqyg&s=08
@@ -48,9 +47,7 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 <br />
 
 
-<a href="http://www.github.com/bertuginal"><img src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bertuginal's GitHub stats" /></a>
-
-<a href="http://www.github.com/bertuginal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/bertuginal"><img src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bertuginal's GitHub stats" /></a><a href="http://www.github.com/bertuginal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## ~ Support Me ~
 
