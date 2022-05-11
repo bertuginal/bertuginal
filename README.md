@@ -52,4 +52,4 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 ## ~ Support Me ~
 
 <a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif) 
+![](https://raw.githubusercontent.com/<bertuginal>/<gif>/<master>/<path/to/gif>)
