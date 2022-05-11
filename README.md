@@ -51,7 +51,7 @@ src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-t
 /></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### ~Skills~
+### ~ Skills ~
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -62,7 +62,7 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-### ~Socials~
+### ~ Socials ~
 
 <a href="https://twitter.com/bertug_inall" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
