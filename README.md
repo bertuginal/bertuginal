@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-t
 /></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## <div align:"center"> ~ Skills ~ </div>
+## <center> ~ Skills ~ </center>
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&emsp;
