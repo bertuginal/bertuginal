@@ -77,7 +77,6 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 [instagram]: https://www.instagram.com/bertug_inal/
 [linkedin]: https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab
 <br />
-<br />
 
 ### ~ Badges ~
 
