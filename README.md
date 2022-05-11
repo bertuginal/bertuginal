@@ -1,4 +1,4 @@
-Hi there, I'm Bertuğ İNAL👋  
+Hi there, I'm Bertuğ İNAL👋
 =============================
 
 I'm a Software Developer!!
@@ -32,6 +32,7 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 [<img align="left" alt="bertuginal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bertuginal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+<br />
 <a href="https://twitter.com/bertug_inall" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
@@ -42,8 +43,10 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 [twitter]: https://twitter.com/bertug_inall?t=discDI9d6z6DDh65wDbqyg&s=08
 [instagram]: https://www.instagram.com/bertug_inal/
 [linkedin]: https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab
-
-<a href="http://www.github.com/bertuginal"><img src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bertuginal's GitHub stats" /></a><a href="http://www.github.com/bertuginal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+##
+</br>
+&ensp;<a href="http://www.github.com/bertuginal"><img src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bertuginal's GitHub stats" /></a>&ensp;<a href="http://www.github.com/bertuginal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center"><img src="https://github.com/bertuginal/gif/blob/master/Bertug.gif" width="150"></div>
 
 ## ~ Support Me ~
 
