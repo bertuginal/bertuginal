@@ -1,6 +1,6 @@
 Hi there, I'm Bertuğ İNAL - [Logo][logo]👋  
 =============================
-![alt text](https://github.com/[bertuginal]/[image]/blob/[master]/Bert_Bej_Orjinal.jpg?raw=true)
+
 I'm a Software Developer!!
 -----------------------------
 
@@ -9,7 +9,7 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 * ⚡  Request + Decision = Success
 * 🖥️  See my portfolio at [About me](http://bertuginal.github.io/)
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
-* 📞  You can call me at (+90) 507 038 33 23
+* 📞  You can call me at [(+90) 507 038 33 23](callto:05070383323)
 
 
 <a href="https://twitter.com/bertug_inall" target="_blank" rel="noreferrer"><img
