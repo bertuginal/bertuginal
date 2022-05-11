@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql.svg" width="36" height="36" alt="Mysql" /></a>
 </p>
 
-####  ~ Socials ~
+##  ~ Socials ~
 
 [<img align="left" alt="bertuginal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="bertuginal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
