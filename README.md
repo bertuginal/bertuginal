@@ -64,10 +64,12 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 
 ### ~ Socials ~
 
-<a href="https://twitter.com/bertug_inall" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[website]: https://www.facebook.com/bertug.inal.5
+[facebook]: https://www.facebook.com/bertug.inal.5
+[youtube]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
+[twitter]: https://twitter.com/bertug_inall?t=discDI9d6z6DDh65wDbqyg&s=08
+[instagram]: https://www.instagram.com/bertug_inal/
+[linkedin]: https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab
 
 ### ~ Badges ~
 
