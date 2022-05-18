@@ -4,7 +4,7 @@ Hi there, I'm Bertuğ İNAL👋
 I'm a Software Developer!!
 -----------------------------
 
-Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th year Computer Engineering student at Fırat University in Elazig. I know Java, C# and Python programming languages. I have knowledge of SQL about Database, I have used and i know MySQL, MSSQL and SQL Server database management systems. Previously, I was back-end software development on Asp.Net Core MVC technologies and MSSQL database management, front-end software development internship on HTML, CSS, JavaScript technologies at Monovi Information Technology.
+Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th year Computer Engineering student at Fırat University in Elazig. I know Java, C#, Python programming languages. I have knowledge of SQL about Database, I have used MySQL, MSSQL and SQL Server database management systems. Previously, I was back-end software development on Asp.Net Core MVC technologies and MSSQL database management, front-end software development internship on HTML, CSS, JavaScript technologies at Monovi Information Technology. 
 
 * ⚡  Request + Decision = Success
 * 🖥️  See my portfolio at [About me](https://bertuginal.github.io/)
