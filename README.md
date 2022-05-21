@@ -9,7 +9,7 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 * ⚡  Request + Decision = Success
 * 🖥️  See my portfolio at [About me](https://bertuginal.github.io/)
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
-* 📞  You can call me at [(+90) 507 038 33 23](mailto:05070383323) 🇹🇷
+* 📞  You can call me at [(+90) 507 038 33 23](callto:05070383323) 🇹🇷
 
 ## ~ Skills ~
 
@@ -53,6 +53,6 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 
 ## ~ Support Me ~
 
-<a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<div style="text-align:center"><a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
 ##
 <div align="center"><img src="https://github.com/bertuginal/gif/blob/master/Software_Developer.gif" width="400"></div>
