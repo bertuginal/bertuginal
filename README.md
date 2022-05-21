@@ -53,6 +53,7 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 
 ## ~ Support Me ~
 
-<div style="text-align:center"><a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
+<a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 ##
+
 <div align="center"><img src="https://github.com/bertuginal/gif/blob/master/Software_Developer.gif" width="400"></div>
