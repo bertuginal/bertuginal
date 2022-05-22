@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there, I'm Bertuğ INAL<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <h3 align="center">I'm a Junior Software Developer!!</h3>
 
+##
 Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th year Computer Engineering student at Firat University in Elazig. I am ambitious, hardworking and researcher. Writing code is my greatest pleasure. I know Java, C#, Python programming languages. I have knowledge of SQL about Database, I have used MySQL, MSSQL and SQL Server database management systems. Previously, I was back-end software development on Asp.Net Core MVC technologies and MSSQL database management, front-end software development internship on HTML, CSS, JavaScript technologies at Monovi Information Technology.
 
 * ⚡  Request + Decision = Success
@@ -36,7 +37,9 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 <a href="https://twitter.com/bertug_inall" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ?style=social"/></a>
+
 
 [facebook]: https://www.facebook.com/bertug.inal.5
 [youtube]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
