@@ -57,5 +57,3 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 ##
 
 <div align="center"><img src="https://github.com/bertuginal/gif/blob/master/Software_Developer.gif" width="400"></div>
-
-![snake gif](https://github.com/bertuginal/bertuginal/blob/output/github-contribution-grid-snake.gif)
