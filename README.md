@@ -38,8 +38,7 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 src="https://img.shields.io/twitter/follow/bertug_inall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ?style=social"/></a>
-
+src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ?logo=youtube&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 [facebook]: https://www.facebook.com/bertug.inal.5
 [youtube]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
