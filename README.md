@@ -1,8 +1,5 @@
-Hi there, I'm Bertuğ İNAL👋
-=============================
-
-I'm a Junior Software Developer!!
------------------------------
+<h1 align="center"> Hi there, I'm Bertuğ INAL<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<h3 align="center">I'm a Junior Software Developer!!</h3>
 
 Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th year Computer Engineering student at Firat University in Elazig. I am ambitious, hardworking and researcher. Writing code is my greatest pleasure. I know Java, C#, Python programming languages. I have knowledge of SQL about Database, I have used MySQL, MSSQL and SQL Server database management systems. Previously, I was back-end software development on Asp.Net Core MVC technologies and MSSQL database management, front-end software development internship on HTML, CSS, JavaScript technologies at Monovi Information Technology.
 
@@ -60,3 +57,5 @@ src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-th
 ##
 
 <div align="center"><img src="https://github.com/bertuginal/gif/blob/master/Software_Developer.gif" width="400"></div>
+
+![snake gif](https://github.com/bertuginal/bertuginal/blob/output/github-contribution-grid-snake.gif)
