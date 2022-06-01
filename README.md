@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Bertuğ INAL<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<h1 align="center"> Hi there, I'm Bertuğ INAL 👋</h1> 
 <h3 align="center">I'm a Junior Software Developer!!</h3>
 
 ##
