@@ -46,13 +46,15 @@ src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ
 [linkedin]: https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab
 [github]: https://github.com/bertuginal
 [hackerrank]: https://www.hackerrank.com/bertuginal1
-##
+
+---
+
 </br>
 &ensp;&ensp;<a href="http://www.github.com/bertuginal"><img src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bertuginal's GitHub stats" width="400"/></a>&ensp;
 <a href="http://www.github.com/bertuginal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400"/></a>
 <img src="https://github.com/bertuginal/bertuginal/blob/output/github-contribution-grid-snake.svg" /></p>
 
-##
+---
 
 <div align="center"><img src="https://github.com/bertuginal/gif/blob/master/Software_Developer.gif" width="400"></div>
 
