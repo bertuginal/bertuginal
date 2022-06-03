@@ -56,7 +56,7 @@ src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ
 
 ---
 
-<div align="center"><img src="https://github.com/bertuginal/gif/blob/master/Software_Developer.gif" width="400"></div>
+<div align="center"><img src="https://github.com/bertuginal/bertuginal/blob/b74191cc2c60b419a952827764834b0a6cb95d22/img/Software_Developer.gif" width="400"></div>
 
 <h2 align="center">~ Support me ~</h2>
 <div align="center"><a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
