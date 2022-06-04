@@ -61,7 +61,7 @@ src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ
 &ensp;&ensp;<a href="http://www.github.com/bertuginal"><img src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bertuginal's GitHub stats" width="400"/></a>&ensp;
 <a href="http://www.github.com/bertuginal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400"/></a>
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertuginal&layout=compact&hide_border=true&show_icons=true&theme=react)](https://github.com/bertuginal/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
 
 ---
