@@ -14,12 +14,17 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&emsp;
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>&emsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python.svg" width="36" height="36" alt="Python" /></a>&emsp;
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="36" height="36" alt=".NET" /></a>&emsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>&emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&emsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>&emsp;
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>&emsp;
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql.svg" width="36" height="36" alt="Mysql" /></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="36" height="36" alt="php" /></a>&emsp;
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql.svg" width="36" height="36" alt="Mysql" /></a>&emsp;
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="firebase" /></a>&emsp;
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="36" height="36" alt="unity" /></a>&emsp;<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="36" height="36" alt="android" /></a>&emsp;
+  
+
 </p>
 
 ## ~ Socials ~
