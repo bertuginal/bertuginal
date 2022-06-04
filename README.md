@@ -36,6 +36,7 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 [<img align="left" alt="bertuginal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bertuginal | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="bertuginal | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="bertuginal | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 <br />
@@ -52,6 +53,7 @@ src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ
 [linkedin]: https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab
 [github]: https://github.com/bertuginal
 [hackerrank]: https://www.hackerrank.com/bertuginal1
+[stackoverflow]: https://stackoverflow.com/users/19272756/bertuğ-İnal
 
 ---
 
