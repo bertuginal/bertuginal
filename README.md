@@ -22,9 +22,8 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="36" height="36" alt="php" /></a>&emsp;
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql.svg" width="36" height="36" alt="Mysql" /></a>&emsp;
 <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="firebase" /></a>&emsp;
-<a href="https://www.android.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="36" height="36" alt="unity" /></a>&emsp;<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="36" height="36" alt="android" /></a>&emsp;
-  
-
+<a href="https://unity.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="36" height="36" alt="unity" /></a>&emsp;
+<a href="https://www.android.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="36" height="36" alt="android" /></a>&emsp;
 </p>
 
 ## ~ Socials ~
