@@ -8,7 +8,7 @@ Hello, I'm Bertuğ. I was born on August 6, 2000. I live in İzmir. I am a 4th y
 * ⚡  Request + Decision = Success
 * 🖥️  See my portfolio at "[About me](https://bertuginal.github.io/)"
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
-* 📞  You can call me at [(+90) 507 038 33 23](mailto:+905070383323)
+* 📞  You can call me at [0507 038 33 23](tel:+905070383323)
 ## ~ Skills ~
 
 <p align="left">
