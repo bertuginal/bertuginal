@@ -4,7 +4,7 @@
 
 ##
 Hello, I'm Bertug. I was born on August 6, 2000. I live in Izmir. I am a 4th year Computer Engineering student at Elazig Fırat University. I love researching and learning new information. To improve myself, I produce new projects, learn new programming languages, watch personal development and software videos and attend seminars. I am ambitious and problem solver. 
-My biggest goal is to be a successful software developer.
+### "My biggest goal is to be a successful software developer."
 
 * ⚡  Request + Decision = Success
 * 🖥️  See my portfolio at "[About me](https://bertuginal.github.io/)"
