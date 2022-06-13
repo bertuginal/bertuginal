@@ -6,8 +6,8 @@
 Hello, I'm Bertug. I was born on August 6, 2000. I live in Izmir. I am a 4th year Computer Engineering student at Elazig Fırat University. I love researching and learning new information. To improve myself, I produce new projects, learn new programming languages, watch personal development and software videos and attend seminars. I am ambitious and problem solver. <b>"My biggest goal is to be a successful software developer."</b>
 
 * ⚡  Request + Decision = Success
-* 🖥️  See my portfolio at "[About me](https://bertuginal.github.io/)"
-* 🌌  See my GitHub Skyline "[here](https://skyline.github.com/bertuginal/2021)"
+* 🖥️  See my portfolio at [About me](https://bertuginal.github.io/)!
+* 🌌  See my GitHub Skyline [here](https://skyline.github.com/bertuginal/2021)!
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 * 📞  You can call me at [(+90) 507 038 33 23](mailto:+905070383323)
 ## ~ Skills ~
