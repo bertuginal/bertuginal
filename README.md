@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
 <h1 align="center"> Hi there, I'm Bertuğ INAL 👋</h1> 
-<h3 align="center">— I'm a Junior Software Developer —</h3>
+<h3 align="center"><— I'm a Junior Software Developer —></h3>
 
 ##
 Hello, I'm Bertug. I was born on August 6, 2000. I live in Izmir. I am a 4th year Computer Engineering student at Elazig Fırat University. I love researching and learning new information. To improve myself, I produce new projects, learn new programming languages, watch personal development and software videos and attend seminars. I am ambitious and problem solver. <b>"My biggest goal is to be a successful software developer."</b>
