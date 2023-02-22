@@ -9,7 +9,7 @@ Hello, I'm Bertug. I was born on August 6, 2000. I live in Izmir. I am a 4th yea
 * 🖥️  See my portfolio at [About me](https://bertuginal.github.io/)!
 * 🌌  See my GitHub Skyline [here](https://skyline.github.com/bertuginal/2022)!
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
-* 📞  You can call me at [(+90) 507 038 33 23](tel:+905070383323)
+* 📞  You can call me at <a href="tel:+905070383323">[(+90) 507 038 33 23](tel:+905070383323)</a>
 ## ~ Skills ~
 
 <p align="left">
