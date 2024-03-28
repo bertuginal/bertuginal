@@ -61,9 +61,19 @@ src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ
 &ensp;&ensp;<a href="http://www.github.com/bertuginal"><img src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bertuginal's GitHub stats" width="400"/></a>&ensp;
 <a href="http://www.github.com/bertuginal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400"/></a>
 <img src="https://github.com/bertuginal/bertuginal/blob/output/github-contribution-grid-snake.svg" /></p>
-![Snake animation](https://raw.githubusercontent.com/bertuginal/bertuginal/output/github-contribution-grid-snake-dark.svg)
 
 ---
+
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=taozhi8833998&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998&theme=onedark" />
+</div>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+
 
 <h2 align="center">~ Support me ~</h2>
 <div align="center"><a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
