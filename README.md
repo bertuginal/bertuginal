@@ -65,7 +65,6 @@ src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ
 <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&theme=onedark" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/bertuginal/bertuginal/output/github-contribution-grid-snake-dark.svg)
 <img src="https://github.com/bertuginal/bertuginal/blob/output/github-contribution-grid-snake.svg" /></p>
 
 ---
