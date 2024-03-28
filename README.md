@@ -65,12 +65,12 @@ src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ
 ---
 
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=bertuginal&theme=github">
+<img width="440px" src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&theme=onedark">
+<img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark" />
+<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=bertuginal&theme=github">
+<img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&theme=onedark" />
+</div>
 
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bertuginal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Snake animation](https://raw.githubusercontent.com/bertuginal/bertuginal/output/github-contribution-grid-snake-dark.svg)
 
 
