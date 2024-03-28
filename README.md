@@ -58,12 +58,6 @@ src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ
 ---
 
 </br>
-<!– &ensp;&ensp;<a href="http://www.github.com/bertuginal"><img src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bertuginal's GitHub stats" width="400"/></a>&ensp;
-<a href="http://www.github.com/bertuginal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400"/></a>–>
-<img src="https://github.com/bertuginal/bertuginal/blob/output/github-contribution-grid-snake.svg" /></p>
-
----
-
 <div>
 <img width="440px" src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&theme=onedark">
 <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark" />
@@ -72,6 +66,11 @@ src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/bertuginal/bertuginal/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/bertuginal/bertuginal/blob/output/github-contribution-grid-snake.svg" /></p>
+
+---
+
+
 
 
 <h2 align="center">~ Support me ~</h2>
