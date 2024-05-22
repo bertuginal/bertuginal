@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hello+There!+;I'm+Bertuğ+İnal...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hello+there!+;Welcome+to+my+Github+profile!...;)](https://git.io/typing-svg)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
 <h1 align="center"> Hi there, I'm Bertuğ INAL 👋</h1> 
 <h3 align="center">↓ I'm a Junior Software Developer ↓</h3>
