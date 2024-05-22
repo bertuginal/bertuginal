@@ -6,7 +6,8 @@
 <h3 align="center">↓ I'm a Junior Software Developer ↓</h3>
 
 ##
-Hello, I'm Bertuğ. I was born on August 6, 2000. I live in Izmir. I graduated department of Computer Engineering from Fırat University. I love researching and learning new information. To improve myself, I produce new projects, learn new programming languages, watch personal development and software videos and attend seminars. I am ambitious and problem solver. <b>"My biggest goal is to be a successful software developer."</b>
+I was born on August 6, 2000. I live in Izmir. I graduated department of Computer Engineering from Fırat University. I love researching and learning new information. To improve myself, I produce new projects, learn new programming languages, watch personal development and software videos and attend seminars. I am ambitious and problem solver. 
+<b>"My biggest goal is to be a successful software developer."</b>
 
 * ⚡  Request + Decision = Success
 * 🖥️  See my portfolio at [About me](https://bertuginal.github.io/)!
