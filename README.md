@@ -11,7 +11,7 @@ I was born on August 6, 2000. I live in Izmir. I graduated department of Compute
 
 * ⚡  Request + Decision = Success
 * 🖥️  See my portfolio at [About me](https://bertuginal.github.io/)!
-* 🌌  See my web projects [here](https://github.com/bertuginal?tab=repositories)!
+* 📝  See my web projects [here](https://github.com/bertuginal?tab=repositories)!
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 * 📞  You can call and text me at [(+90) 507 038 33 23](mailto:+905070383323)
 ## ~ Skills ~
