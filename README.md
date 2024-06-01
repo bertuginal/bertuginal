@@ -69,15 +69,6 @@ src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ
 <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&theme=onedark" />
 </div>
 
-<img src="https://github.com/bertuginal/bertuginal/blob/output/github-contribution-grid-snake.svg" /></p>
-![Snake animation](https://raw.githubusercontent.com/bertuginal/bertuginal/output/github-contribution-grid-snake.svg)
 
----
-
-
-
-
-<h2 align="center">~ Support me ~</h2>
-<div align="center"><a href="https://www.buymeacoffee.com/bertuginal" /><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
 
 
