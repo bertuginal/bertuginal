@@ -1,14 +1,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hi+there!+;I'm+Bertuğ+INAL)](https://git.io/typing-svg)
-
-<h1 align="center"> Hi there, I'm Bertuğ INAL 👋</h1> 
-<h3 align="center">↓ I'm a Junior Software Developer ↓</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%1c8139&size=33&vCenter=true&lines=Hi+there!+;I'm+Bertuğ+INAL)](https://git.io/typing-svg)
+<h3 align="left">↓ I'm a Junior Software Developer ↓</h3>
 
 ##
-I was born on August 6, 2000. I live in Izmir. I graduated department of Computer Engineering from Fırat University. I love researching and learning new information. To improve myself, I produce new projects, learn new programming languages, watch personal development and software videos and attend seminars. I am ambitious and problem solver. <br/><br/>
-<b>"My biggest goal is to be a successful software developer!"</b>
-
+As a Computer Engineering graduate from Fırat University, I am an engineer dedicated to creating permanent and scalable solutions in the software world. <b>Focusing on Java, ASP.NET Core, C#, and SQL, I develop projects aimed at transforming complex monolithic structures into modern, flexible microservices architectures.</b> My engineering approach is built on designing resilient, sustainable systems and integrating cutting-edge technologies into projects through a disciplined learning process.
+<br/><br/>
 * ⚡  Request + Decision = Success
 * 🖥️  See my portfolio at [About me](https://bertuginal.github.io/)!
 * 📝  See my web projects [here](https://github.com/bertuginal?tab=repositories)!
