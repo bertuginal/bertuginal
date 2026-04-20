@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hello+there!+;Welcome+to+my+Github+profile!...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hi+there!+;I'm+Bertuğ+INAL)](https://git.io/typing-svg)
 
 <h1 align="center"> Hi there, I'm Bertuğ INAL 👋</h1> 
 <h3 align="center">↓ I'm a Junior Software Developer ↓</h3>
@@ -14,22 +14,6 @@ I was born on August 6, 2000. I live in Izmir. I graduated department of Compute
 * 📝  See my web projects [here](https://github.com/bertuginal?tab=repositories)!
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 * 📞  You can call and text me at [(+90) 507 038 33 23](mailto:+905070383323)
-## ~ Skills ~
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&emsp;
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>&emsp;
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="36" height="36" alt=".NET" /></a>&emsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>&emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&emsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>&emsp;
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="36" height="36" alt="php" /></a>&emsp;
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql.svg" width="36" height="36" alt="Mysql" /></a>&emsp;
-<a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="36" height="36" alt="firebase" /></a>&emsp;
-<a href="https://unity.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="36" height="36" alt="unity" /></a>&emsp;
-<a href="https://www.android.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="36" height="36" alt="android" /></a>&emsp;
-</p>
 
 ## ~ Socials ~
 
