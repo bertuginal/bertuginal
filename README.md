@@ -14,14 +14,14 @@ As a Computer Engineering graduate from Fırat University, I am an engineer dedi
 
 ## ~ Socials ~
 
-[<img align="left" alt="bertuginal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="bertuginal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="bertuginal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bertuginal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="bertuginal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bertuginal | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="bertuginal | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="bertuginal | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="bertuginal | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="bertuginal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="bertuginal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="bertuginal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="bertuginal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 <br />
@@ -30,14 +30,14 @@ As a Computer Engineering graduate from Fırat University, I am an engineer dedi
 <a href="https://www.github.com/bertuginal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bertuginal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ" target="_blank" rel="noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UChsLvmuSIuTyA_w_Bscz9mQ?logo=youtube&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
-[facebook]: https://www.facebook.com/bertug.inal.5
-[youtube]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
-[twitter]: https://twitter.com/bertug_inall?t=discDI9d6z6DDh65wDbqyg&s=08
-[instagram]: https://www.instagram.com/bertug_inal/
 [linkedin]: https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab
 [github]: https://github.com/bertuginal
 [hackerrank]: https://www.hackerrank.com/bertuginal1
 [stackoverflow]: https://stackoverflow.com/users/19272756/bertuğ-İnal
+[instagram]: https://www.instagram.com/bertug_inal/
+[facebook]: https://www.facebook.com/bertug.inal.5
+[twitter]: https://twitter.com/bertug_inall?t=discDI9d6z6DDh65wDbqyg&s=08
+[youtube]: https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ
 
 ---
 
