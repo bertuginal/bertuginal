@@ -1,7 +1,70 @@
+<!-- Github toplam giriş sayısı -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%1c8139&size=33&vCenter=true&lines=Hi+there!+;I'm+Bertuğ+INAL)](https://git.io/typing-svg)
-<h3 align="left">↓ I'm a Junior Software Developer ↓</h3>
+<div align="center">
+
+<!-- Hareketli ve renkli başlık -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=bd34fe&size=40&vCenter=true&speed=90&pause=2000&width=700&lines=Software+Development+Specialist!" alt="Typing SVG" />
+  </a>
+
+
+  # Merhaba, ben Bertuğ İNAL 👋
+
+  ### 🚀 Software Engineer | Computer Engineer | Backend Developer
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Firat_University-Computer_Engineering-blue?style=flat-square" alt="Education" />
+  </p>
+
+</div>
+
+---
+
+## 🛠️ Teknik Yetkinlikler
+
+<div align="left">
+  
+  **Back-end:** Java (Spring Boot), C#, .NET Core, ASP.NET MVC, Microservices, RESTful APIs  
+  **Database:** PostgreSQL, MSSQL  
+  **Front-end:** React, Next.js  
+  **Tooling & Practices:** Git, Docker, Agile/Scrum Methodologies  
+
+</div>
+
+---
+
+## 👨‍💻 Hakkımda
+Fırat Üniversitesi Bilgisayar Mühendisliği mezunuyum. Yazılım dünyasında ölçeklenebilir ve sürdürülebilir sistemler tasarlamaya odaklanan bir mühendisim. Monolitik yapıların modern mikroservis mimarilerine dönüştürülmesi ve temiz kod (Clean Code) prensipleri üzerine tutkuyla çalışıyorum.
+
+*   ⚡ **Felsefem:** *Request + Decision = Success*
+*   🎯 **Güncel İlgi:** Yapay Zeka (Machine Learning) ve Cloud Native çözümler.
+*   📫 **İletişim:** [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
+
+---
+
+## 📊 Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark&hide_border=true" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bertuginal&theme=react-dark&hide_border=true">
+</div>
+
+---
+
+## 📬 Sosyal Medya ve Bağlantılar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bertuginal)
+[![StackOverflow](https://img.shields.io/badge/stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19272756/bertuğ-İnal)
+
+</div>
+
+
+<h3 align="left">↓ Software Developer ↓</h3>
 
 ##
 As a Computer Engineering graduate from Fırat University, I am an engineer dedicated to creating permanent and scalable solutions in the software world. <b>Focusing on Java, ASP.NET Core, C#, and SQL, I develop projects aimed at transforming complex monolithic structures into modern, flexible microservices architectures.</b> My engineering approach is built on designing resilient, sustainable systems and integrating cutting-edge technologies into projects through a disciplined learning process.
@@ -43,10 +106,9 @@ As a Computer Engineering graduate from Fırat University, I am an engineer dedi
 
 </br>
 <div>
-<img width="440px" src="https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&theme=onedark">
-<img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark" />
 <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=bertuginal&theme=github">
-<img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=bertuginal&theme=onedark" />
+  </br>
+<img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark" />
 </div>
 
 
