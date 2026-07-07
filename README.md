@@ -1,15 +1,16 @@
-<!-- Github toplam giriş sayısı -->
+<!-- Github Toplam Giriş Sayacı -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
 
 <div align="center">
 
-<!-- Hareketli ve renkli başlık -->
+<!-- Hareketli ve Renkli Başlık -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=bd34fe&size=40&vCenter=true&speed=90&pause=1000&width=700&lines=Software+Development+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=bd34fe&size=40&vCenter=true&speed=110&pause=1000&width=700&lines=Software+Development+Specialist;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Bertuğ+İNAL!" alt="Typing SVG" />
   </a>
 
   ###  Software Engineer | Computer Engineer | Backend Developer
 
+<!-- Üniversite Bilgisi Rozeti -->
   <p align="center">
     <img src="https://img.shields.io/badge/Firat_University-Computer_Engineering-blue?style=flat-square" alt="Education" />
   </p>
@@ -18,9 +19,9 @@
 
 ---
 
+<!-- Teknik Beceriler Bölümü -->
 ## 🛠️ Technical Skills
 
-<!-- Sosyal Medya Rozetleri -->
 <div align="left">
   
   * **Back-end:** Java (Spring Boot), C#, .NET Core, ASP.NET Core MVC
@@ -39,8 +40,9 @@
 
 <br>
 
-## 👨‍💻 About Me
 <!-- Hakkımda Bölümü -->
+## 👨‍💻 About Me
+
 As a Computer Engineering graduate from Fırat University, I am an engineer dedicated to creating permanent and scalable solutions in the software world. <b>Focusing on Java, ASP.NET Core, C#, and SQL, I develop projects aimed at transforming complex monolithic structures into modern, flexible microservices architectures.</b> My engineering approach is built on designing resilient, sustainable systems and integrating cutting-edge technologies into projects through a disciplined learning process.
 
 * ⚡  Request + Decision = Success
@@ -51,6 +53,7 @@ As a Computer Engineering graduate from Fırat University, I am an engineer dedi
 
 <br>
 
+<!-- İstatistikler Bölümü -->
 ## 📊 Statistics
 
 <!-- GitHub Aktivite Geçmişi Grafiği -->
@@ -60,6 +63,7 @@ As a Computer Engineering graduate from Fırat University, I am an engineer dedi
 
 <br>
 
+<!-- Sosyal Medya ve Bağlantılar Bölümü -->
 ## 📬 Social Media and Connections
 
 <!-- Sosyal Medya Rozetleri -->
