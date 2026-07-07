@@ -5,11 +5,8 @@
 
 <!-- Hareketli ve renkli başlık -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=bd34fe&size=40&vCenter=true&speed=90&pause=2000&width=700&lines=Software+Development+Specialist!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=bd34fe&size=40&vCenter=true&speed=90&pause=1000&width=700&lines=Software+Development+Specialist" alt="Typing SVG" />
   </a>
-
-
-  # Bertuğ İNAL
 
   ###  Software Engineer | Computer Engineer | Backend Developer
 
@@ -21,24 +18,29 @@
 
 ---
 
-## 🛠️ Teknik Yetkinlikler
+## 🛠️ Technical Skills
 
+<!-- Sosyal Medya Rozetleri -->
 <div align="left">
   
-  **Back-end:** Java (Spring Boot), C#, .NET Core, ASP.NET MVC, Microservices, RESTful APIs  
-  **Database:** PostgreSQL, MSSQL  
-  **Front-end:** React, Next.js  
-  **Tooling & Practices:** Git, Docker, Agile/Scrum Methodologies  
+  * **Back-end:** Java (Spring Boot), C#, .NET Core, ASP.NET Core MVC
+  * **Front-end:** React.js, Next.js
+  * **Database:** PostgreSQL, MSSQL, MySQL
+  * **Architecture:** Microservices, RESTful API, N-Tier Architecture
+  * **Tools & Technologies:** Git, Postman, Docker (basic), RabbitMQ (basic)
+  * **Other:** Entity Framework, SEO, WordPress
 
 </div>
+
+<!-- Github Projelerde En Çok Kullanılan Programlama Dilleri İstatistikleri -->
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark&hide_border=true" width="1000" height="200"/>
 </div>
 
-
----
+<br>
 
 ## 👨‍💻 About Me
+<!-- Hakkımda Bölümü -->
 As a Computer Engineering graduate from Fırat University, I am an engineer dedicated to creating permanent and scalable solutions in the software world. <b>Focusing on Java, ASP.NET Core, C#, and SQL, I develop projects aimed at transforming complex monolithic structures into modern, flexible microservices architectures.</b> My engineering approach is built on designing resilient, sustainable systems and integrating cutting-edge technologies into projects through a disciplined learning process.
 
 * ⚡  Request + Decision = Success
@@ -47,21 +49,22 @@ As a Computer Engineering graduate from Fırat University, I am an engineer dedi
 * ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 * 📞  You can call and text me at [(+90) 507 038 33 23](mailto:+905070383323)
 
----
+<br>
 
 ## 📊 Statistics
 
+<!-- GitHub Aktivite Geçmişi Grafiği -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bertuginal&theme=react-dark&hide_border=true">
 </div>
 
----
+<br>
 
 ## 📬 Social Media and Connections
 
-<div align="center">
-
 <!-- Sosyal Medya Rozetleri -->
+<div align="left">
+  
 <a href="https://www.linkedin.com/in/bertu%C4%9F-inal-1874781ab">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
@@ -74,7 +77,6 @@ As a Computer Engineering graduate from Fırat University, I am an engineer dedi
 <a href="https://stackoverflow.com/users/19272756/bertuğ-İnal">
   <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>&nbsp;
-<br /> <br />
 <a href="https://www.instagram.com/bertug_inal/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;
