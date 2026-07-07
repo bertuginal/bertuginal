@@ -5,7 +5,7 @@
 
 <!-- Hareketli ve Renkli Başlık -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=bd34fe&size=40&vCenter=true&speed=110&pause=1000&width=700&lines=Software+Development+Specialist;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Bertuğ+İNAL!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=bd34fe&size=40&vCenter=true&speed=110&pause=1000&width=700&lines=%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Bertuğ+İNAL;Software+Development+Specialist!" alt="Typing SVG" />
   </a>
 
   ###  Software Engineer | Computer Engineer | Backend Developer
