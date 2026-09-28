@@ -1,11 +1,9 @@
-<!-- Github Toplam Giriş Sayacı -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
-
 <div align="center">
+<h1>Hi👋, I'm Bertuğ İNAL</h1>
 
 <!-- Hareketli ve Renkli Başlık -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=bd34fe&size=40&vCenter=true&speed=110&pause=1000&width=700&lines=%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Bertuğ+İNAL;Software+Development+Specialist!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=bd34fe&size=40&vCenter=true&speed=110&pause=1000&width=700&lines=%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Software+Engineer;Software+Development+Specialist" alt="Typing SVG" />
   </a>
 
   ###  Software Engineer | Computer Engineer | Backend Developer
@@ -20,36 +18,19 @@
 ---
 
 <!-- Teknik Beceriler Bölümü -->
-## 🛠️ Technical Skills
 
-<div align="left">
-  
-  * **Back-end:** Java (Spring Boot), C#, .NET Core, ASP.NET Core MVC
-  * **Front-end:** React.js, Next.js
-  * **Database:** PostgreSQL, MSSQL, MySQL
-  * **Architecture:** Microservices, RESTful API, N-Tier Architecture
-  * **Tools & Technologies:** Git, Postman, Docker (basic), RabbitMQ (basic)
-  * **Other:** Entity Framework, SEO, WordPress
-
-</div>
-
-<!-- Github Projelerde En Çok Kullanılan Programlama Dilleri İstatistikleri -->
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark&hide_border=true" width="1000" height="200"/>
-</div>
 
 <br>
 
 <!-- Hakkımda Bölümü -->
 ## 👨‍💻 About Me
+* 🔭  I’m currently working on AI.
 
-As a Computer Engineering graduate from Fırat University, I am an engineer dedicated to creating permanent and scalable solutions in the software world. <b>Focusing on Java, ASP.NET Core, C#, and SQL, I develop projects aimed at transforming complex monolithic structures into modern, flexible microservices architectures.</b> My engineering approach is built on designing resilient, sustainable systems and integrating cutting-edge technologies into projects through a disciplined learning process.
+* 🖥️  All about me at [About me](https://bertuginal.github.io/)
 
-* ⚡  Request + Decision = Success
-* 🖥️  See my portfolio at [About me](https://bertuginal.github.io/)!
-* 📝  See my web projects [here](https://github.com/bertuginal?tab=repositories)!
-* ✉️  You can contact me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
-* 📞  You can call and text me at [(+90) 507 038 33 23](mailto:+905070383323)
+* 📝  Projects are at [here](https://github.com/bertuginal?tab=repositories)
+
+* 📫  Reach me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 
 <br>
 
@@ -60,6 +41,15 @@ As a Computer Engineering graduate from Fırat University, I am an engineer dedi
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bertuginal&theme=react-dark&hide_border=true">
 </div>
+
+<!-- Github Projelerde En Çok Kullanılan Programlama Dilleri İstatistikleri -->
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark&hide_border=true" width="1000" height="200"/>
+</div>
+
+<br>
+<!-- Github Toplam Giriş Sayacı -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
 
 <br>
 
