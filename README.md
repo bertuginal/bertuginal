@@ -21,12 +21,15 @@
 
 
 <!-- Hakkımda Bölümü -->
-* 🔭  I’m currently working on <b>AI</b>.
+* 🔭  I’m currently working on <b>Generative AI and LLMs.</b>.
+
+* 📚  I’m currently learning <b>Deep Learning architectures.</b>
 
 * 🖥️  All about me at [my portfolio (github.io)](https://bertuginal.github.io/)!
 
 * 📫  Reach me and contact to me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 
+<br>
 
 <!-- İstatistikler Bölümü -->
 ## 📊 Statistics
