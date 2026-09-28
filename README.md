@@ -1,3 +1,8 @@
+<!-- Profil Fotoğrafı veya Proje Görseli -->
+<div align="center">
+  <img src="" alt="neural" width="200" height="200" style="border-radius: 50%;" />
+</div>
+
 <div align="center">
 <h1>Hi👋, I'm Bertuğ İNAL</h1>
 
