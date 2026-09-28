@@ -76,14 +76,4 @@
 <a href="https://www.instagram.com/bertug_inal/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;
-<a href="https://www.facebook.com/bertug.inal.5">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>&nbsp;
-<a href="https://twitter.com/bertug_inall">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.youtube.com/channel/UChsLvmuSIuTyA_w_Bscz9mQ">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
 </div>
