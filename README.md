@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=bd34fe&size=40&vCenter=true&speed=110&pause=1000&width=700&lines=%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Software+Engineer;Software+Development+Specialist" alt="Typing SVG" />
   </a>
 
-  ###  Software Engineer | Computer Engineer | Backend Developer
+  ###  Computer Engineer | Software Developer | Backend Development Specialist
 
 <!-- Üniversite Bilgisi Rozeti -->
   <p align="center">
@@ -20,19 +20,13 @@
 <!-- Teknik Beceriler Bölümü -->
 
 
-<br>
-
 <!-- Hakkımda Bölümü -->
-## 👨‍💻 About Me
-* 🔭  I’m currently working on AI.
+* 🔭  I’m currently working on <b>AI</b>.
 
-* 🖥️  All about me at [About me](https://bertuginal.github.io/)
+* 🖥️  All about me at [my portfolio (github.io)](https://bertuginal.github.io/)!
 
-* 📝  Projects are at [here](https://github.com/bertuginal?tab=repositories)
+* 📫  Reach me and contact to me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 
-* 📫  Reach me at [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
-
-<br>
 
 <!-- İstatistikler Bölümü -->
 ## 📊 Statistics
