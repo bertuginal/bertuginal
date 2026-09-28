@@ -1,6 +1,6 @@
 <!-- Profil Fotoğrafı veya Proje Görseli -->
 <div align="center">
-  <img src="" alt="neural" width="200" height="200" style="border-radius: 50%;" />
+  <img src="./img/neural.png" alt="neural" width="1000" height="500" style="border-radius: 50%;" />
 </div>
 
 <div align="center">
