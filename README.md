@@ -31,7 +31,7 @@
 * 🎯  Focused on <b>Generative AI and LLMs.</b>.
 * 📚  Learning <b>Deep Learning architectures.</b>
 * 🌍  Based in <b>Izmir, Turkey</b>
-* 🖥️  All about me at: <b>[my portfolio (github.io)](https://bertuginal.github.io/)</b>
+* 🖥️  All about me at: <b>https://bertuginal.github.io/</b>
 * 📫  Reach me at: <b>[bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)</b>
 
 <br>
