@@ -26,13 +26,13 @@
 
 
 <!-- Hakkımda Bölümü -->
+<h3>👨‍💻 About Me</h3>
+
 * 🎯  Focused on <b>Generative AI and LLMs.</b>.
-
 * 📚  Learning <b>Deep Learning architectures.</b>
-
-* 🖥️  All about me at: [my portfolio (github.io)](https://bertuginal.github.io/)!
-
-* 📫  Reach me at: [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
+* 🌍  Based in <b>Izmir, Turkey</b>
+* 🖥️  All about me at: <b>[my portfolio (github.io)](https://bertuginal.github.io/)</b>
+* 📫  Reach me at: <b>[bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)</b>
 
 <br>
 
@@ -56,7 +56,7 @@
 <br>
 
 <!-- Sosyal Medya ve Bağlantılar Bölümü -->
-## 📬 Social Media and Connections
+## 🔗 Connect with me
 
 <!-- Sosyal Medya Rozetleri -->
 <div align="left">
