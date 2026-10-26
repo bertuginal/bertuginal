@@ -38,11 +38,8 @@ A senior-focused infrastructure built on robust backend systems, currently trans
 <details>
   <summary>My Github profile statistics-s-s</summary>
   <br>
-  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
+  <p></i><p>
 
-  - I post random photos and trip snippets at **[VSCO](https://vsco.co/jayehernandez)**. (Look at the Journal's tab!)
-  - My go to jam when coding: musicals. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
   <!-- İSTATİSTİKLER BÖLÜMÜ -->
   <!-- Github Genel İstatistikler -->
   ![My github stats](https://github-readme-stats.vercel.app/api?username=bertuginal&show_icons=true&theme=nord)
@@ -58,12 +55,12 @@ A senior-focused infrastructure built on robust backend systems, currently trans
 
 <!-- SOSYAL MEDYA BÖLÜMÜ -->
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat! </i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:bertuginal@yahoo.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://bertuginal.github.io" alt="My portfolio"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://www.linkedin.com/in/bertuginal/" alt="Linkedin"><img src="https://github.com/bertuginal/bertuginal/blob/main/img/linkedin-fill.svg"></a>
+    <a href="mailto:bertuginal@yahoo.com" alt="Contact me"><img src="https://github.com/bertuginal/bertuginal/blob/main/img/mail-fill.svg"></a>
+    <a href="https://bertuginal.github.io" alt="My portfolio"><img src="https://github.com/bertuginal/bertuginal/blob/main/img/external-link-line.svg"></a>
   </p>
 
 
