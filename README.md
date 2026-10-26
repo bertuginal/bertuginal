@@ -27,11 +27,11 @@
 A senior-focused infrastructure built on robust backend systems, currently transitioning core expertise toward <b>Data Science, Generative AI, and LLM architectures.<b/> 🎯
 
 <!-- HAKKIMDA BÖLÜMÜ -->
-* 🎯  Focused on <b>Generative AI and LLMs.</b>.
-* 📚  Learning <b>Deep Learning architectures.</b>
-* 🌍  Based in <b>Izmir, Turkey</b>
-* 🖥️  All about me at: <b>https://bertuginal.github.io/</b>
-* 📫  Reach me at: <b>[bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)</b>
+* 👩🏻‍💻 Deeply focused on <b>Generative AI, Large Language Models (LLMs), and implementing Deep Learning architectures.<b/>
+* 🤗 Sharing models, spaces, and datasets over at [huggingface.co/bertuginal](https://huggingface.co/bertuginal)
+* 🛠 Experienced in building robust Web APIs, RESTful services, and managing PostgreSQL/MySQL databases.
+* 📚 Currently diving into advanced neural network concepts and computer vision tools like OpenCV.
+* ✍️ Writing tech blog posts over at **[medium/bertuginal](https://medium.com/@bertuginal)**
 
 <details>
   <summary>My Github profile statistics-s-s</summary>
