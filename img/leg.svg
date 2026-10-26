@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="156" viewBox="0 0 1140 156" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub profile banner footer</title>
+  <desc id="desc">Decorative footer wave matching the hey i'm bertuğ GitHub profile banner.</desc>
+  <defs>
+    <linearGradient id="footer-bg" x1="-65" y1="335" x2="1190" y2="-85" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#161B22"/>
+      <stop offset="0.52" stop-color="#1F2937"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <clipPath id="footer-clip"><rect width="1140" height="156"/></clipPath>
+  </defs>
+  <g clip-path="url(#footer-clip)">
+    <path d="M804.971 88C952.171 138 1100.47 63 1146.47 0.499997L1204.97 -72L1204.97 447L-14.5293 447L-31.5293 52.5001C20.0707 123.3 219.471 129.793 327.971 88.0001C436.471 46.2074 657.771 38 804.971 88Z" fill="url(#footer-bg)"/>
+  </g>
+</svg>

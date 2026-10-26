@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="342" viewBox="0 0 1140 342" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">hey i'm bertuğ</title>
+  <desc id="desc">GitHub profile banner in a dark navy, blue, and violet palette.</desc>
+  <defs>
+    <linearGradient id="hero-bg" x1="0" y1="0" x2="1140" y2="342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+    <linearGradient id="hero-accent" x1="261" y1="78" x2="895" y2="197" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <clipPath id="hero-clip"><rect width="1140" height="342"/></clipPath>
+  </defs>
+  <g clip-path="url(#hero-clip)">
+    <path d="M344 250C196.8 200 48.5 275 2.5 337.5L-56 410V-109H1163.5L1180.5 285.5C1128.9 214.7 929.5 208.207 821 250C712.5 291.793 491.2 300 344 250Z" fill="url(#hero-bg)"/>
+    <circle cx="570" cy="122" r="120" fill="#58A6FF" opacity="0.035"/>
+    <text x="570" y="151" text-anchor="middle" fill="url(#hero-accent)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="600" letter-spacing="3">&lt;hello world /&gt;</text>
+    <text x="570" y="204" text-anchor="middle" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">hey i'm bertuğ</text>
+  </g>
+</svg>
+
