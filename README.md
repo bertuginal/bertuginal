@@ -2,9 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
 
 <!-- FOTOĞRAF BÖLÜMÜ -->
-<div align="center">
-  <img src="./img/artificial_neural.jpg" alt="neural" width="1000" height="500" style="border-radius: 50%;" />
-</div>
+<img src="https://github.com/bertuginal/bertuginal/blob/main/img/body.svg" alt="Top Image">
 
 <div align="center">
 <h1>Hi👋, I'm Bertuğ İNAL</h1>
@@ -55,7 +53,7 @@ A senior-focused infrastructure built on robust backend systems, currently trans
 
 <!-- SOSYAL MEDYA BÖLÜMÜ -->
 <p align="center">
-  <i>Let's connect and chat! </i>
+  <i>Let's connect and chat! No topic is off-limits.</i>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/bertuginal/" alt="Linkedin"><img src="https://github.com/bertuginal/bertuginal/blob/main/img/linkedin-fill.svg"></a>
@@ -63,5 +61,6 @@ A senior-focused infrastructure built on robust backend systems, currently trans
     <a href="https://bertuginal.github.io" alt="My portfolio"><img src="https://github.com/bertuginal/bertuginal/blob/main/img/external-link-line.svg"></a>
   </p>
 
-
+<!-- FOTOĞRAF BÖLÜMÜ -->
+<img src="https://github.com/bertuginal/bertuginal/blob/main/img/leg.svg" alt="Bottom Image">
 
