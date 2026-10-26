@@ -1,3 +1,5 @@
+<!-- Github Toplam Giriş Sayacı -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
 <!-- Profil Fotoğrafı veya Proje Görseli -->
 <div align="center">
   <img src="./img/artificial_neural.jpg" alt="neural" width="1000" height="500" style="border-radius: 50%;" />
@@ -48,10 +50,6 @@
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bertuginal&layout=compact&theme=onedark&hide_border=true" width="1000" height="200"/>
 </div>
-
-<br>
-<!-- Github Toplam Giriş Sayacı -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bertuginal&label=Profile%20views&color=0e75b6&style=flat" alt="bertuginal" /> </p>
 
 <br>
 
